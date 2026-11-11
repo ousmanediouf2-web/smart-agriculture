@@ -1,0 +1,9 @@
+VOTRE PROPRE VOCAL D'ALERTE « SOL CRITIQUE »
+
+1. Enregistrez votre voix (téléphone, Audacity, WhatsApp...).
+2. Nommez le fichier exactement :  sol-critique.ogg   (ou sol-critique.mp3 / sol-critique.m4a / sol-critique.opus)
+3. Placez-le dans CE dossier (backend/assets/voice/), puis poussez sur GitHub.
+4. Render redéploie : le vocal est envoyé après chaque alerte Telegram de sol critique.
+
+Si aucun fichier n'est présent, une voix de synthèse est utilisée à la place.
+Conseil : 10 à 20 secondes, une seule consigne claire (le vocal ne peut pas citer le nom de la parcelle).
